@@ -8,8 +8,7 @@ import java.util.Random;
 
 /**
  *
- * @author Renato Galdo
- * Pequeño cambio
+ REVISALO
  */
 public class LaboratorioSemana03 {
     
